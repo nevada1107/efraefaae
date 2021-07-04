@@ -5,17 +5,19 @@
 <HEAD>
 
 
-<body background="https://pbs.twimg.com/media/E5byOM8VkAE5d7r?format=jpg&name=small"></body>
+<body bgcolor="black">
  
-
+<font color="red">
 <h1 style="text-align:center">技研部特設ページ</h1>
+</font>
 
 
-
-
+<font color="gray">
 <P>
 <A href="https://twitter.com">ツイッター</A>に画像元を保存しております。
 </P>
+</font>
+
 
 <font color="white">
 <h3 style="text-align:center" style="color:blue">まえがき</h3>
